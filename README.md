@@ -66,5 +66,5 @@ SQL was used for:
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 This project demonstrates how SQL and Power BI can be used together to analyze sales data and generate actionable business insights for decision-making.
