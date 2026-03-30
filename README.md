@@ -14,7 +14,7 @@ Performed end-to-end data cleaning & transformation in SQL (MySQL) and built an 
 
 ## Dataset
 - The dataset used in this project is available on Kaggle:  
-[UK E-Commerce Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
+[Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
 Note: Due to file size limitations, the dataset may not preview properly on GitHub.  
 
@@ -41,7 +41,7 @@ Note: Due to file size limitations, the dataset may not preview properly on GitH
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 - Focus on high-performing regions to maximize revenue growth.  
 - Strengthen marketing efforts for the Consumer segment.  
 - Invest more in Technology category as it drives the highest sales.  
