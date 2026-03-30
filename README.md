@@ -13,7 +13,10 @@ Performed end-to-end data cleaning & transformation in SQL (MySQL) and built an 
 ---
 
 ## Dataset
-- Dataset included in this repository  
+- he dataset used in this project is available on Kaggle:  
+[UK E-Commerce Dataset]([your-kaggle-link](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting))
+
+Note: Due to file size limitations, the dataset may not preview properly on GitHub.  
 
 ---
 
@@ -58,9 +61,9 @@ SQL was used for:
 
 ## Project Files
 - ![Power BI Dashboard](Sales_dashboard.png)
-- Interactive Dashboard(Sales-analysis pro.pbix)
-- [SQL File](Sales project.sql)
-- Dataset(Sales data.csv) 
+- Interactive Dashboard(Sales_analysis_pro.pbix)
+- [SQL File](Sales_project.sql)
+- Dataset(Sales_data.csv) 
 
 ---
 
