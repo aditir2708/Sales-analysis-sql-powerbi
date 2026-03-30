@@ -13,8 +13,8 @@ Performed end-to-end data cleaning & transformation in SQL (MySQL) and built an 
 ---
 
 ## Dataset
-- he dataset used in this project is available on Kaggle:  
-[UK E-Commerce Dataset]([your-kaggle-link](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting))
+- The dataset used in this project is available on Kaggle:  
+[UK E-Commerce Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
 Note: Due to file size limitations, the dataset may not preview properly on GitHub.  
 
@@ -30,7 +30,7 @@ Note: Due to file size limitations, the dataset may not preview properly on GitH
 
 ---
 
-## 
+## Key Insights
 - Total sales reached **2.29M**, indicating strong overall performance.  
 - Sales are heavily concentrated in key regions such as California and New York.  
 - The **Consumer segment** dominates sales, contributing more than half of total revenue, making it the primary customer base.  
@@ -61,9 +61,8 @@ SQL was used for:
 
 ## Project Files
 - ![Power BI Dashboard](Sales_dashboard.png)
-- [Interactive Dashboard](Sales_analysis_pro.pbix)
-- [SQL File](Sales_project.sql)
-- [Dataset](Sales_data.csv) 
+- [Power BI Dashboard](Sales_analysis_pro.pbix) - Interactive Dashboard
+- [SQL File](Sales_project.sql) - Data cleaning & Analysis queries  
 
 ---
 
