@@ -57,7 +57,7 @@ SQL was used for:
 ---
 
 ## Project Files
-- ![Power BI Dashboard](PROJECT/Sales dashboard.png) 
+- ![Power BI Dashboard](PROJECT/Sales_dashboard.png) 
 - SQL File   
 - Dataset  
 
