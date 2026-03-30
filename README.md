@@ -57,9 +57,10 @@ SQL was used for:
 ---
 
 ## Project Files
-- Interactive Dashboard ![Power BI Dashboard](Sales_dashboard.png) 
-- [SQL File] ()
-- Dataset  
+- ![Power BI Dashboard](Sales_dashboard.png)
+- Interactive Dashboard(Sales-analysis pro.pbix)
+- [SQL File](Sales project.sql)
+- Dataset(Sales data.csv) 
 
 ---
 
